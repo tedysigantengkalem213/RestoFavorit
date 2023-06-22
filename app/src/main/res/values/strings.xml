@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">5resto</string>
+    <string name="i1_desc">Aplikasi 5Resto adalah sebuah aplikasi yang dirancang untuk membantu pengguna menemukan restoran terdekat dengan cepat dan mudah.\nGeser ke kanan untuk mengetahui lebih lengkap..</string>
+    <string name="i2_desc">GPS di perangkat Android untuk mendapatkan lokasi pengguna saat aplikasi dibuka.</string>
+    <string name="i3_desc">Temukan pengalaman kuliner yang luar biasa dengan rekomendasi restoran terbaik.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_maps_api_key">AIzaSyAXt_Y6fp4tWobUbmjRYb9PrGxqeCcuKjI</string>
+</resources>
